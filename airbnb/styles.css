@@ -1,1 +1,73 @@
 /* Add your CSS here */
+html {
+ width: 650px;
+}
+div {
+ font-size: 15px;
+ border-radius: 5px;
+ padding: 20px;
+}
+#location{
+ width: 100%;
+ padding: 12px 20px;
+ margin: 8px 0;
+ display: inline-block;
+ border: 1px solid #ccc;
+ border-radius: 4px;
+ box-sizing: content-box;
+ font-size: 15px;
+ margin-bottom: 20px;
+}
+#booking{
+  width: 30%;
+   padding: 12px 20px;
+   margin: 8px 0;
+   display: inline-block;
+   border: 1px solid #ccc;
+   border-radius: 4px;
+   box-sizing: content-box;
+   margin-bottom: 20px;
+   margin-right: 20px;
+
+}
+#Leaving {
+ width: 30%;
+ padding: 12px 20px;
+ margin: 8px 0;
+ display: inline-block;
+ border: 1px solid #ccc;
+ border-radius: 4px;
+ box-sizing: content-box;
+ }
+#people {
+ width: 100%;
+ margin-top: 10px;
+}
+.check {
+ margin-right: auto;
+ margin-left: auto;
+ float:left;
+}
+.bottom{
+ float: left;
+}
+.picture {
+ float: left;
+ padding-left: 1px;
+}
+input[type=text] {
+ margin-top: 40px;
+ display: inline-block;
+ box-sizing: content-box;
+}
+input[type=submit] {
+ width: 100%;
+ background-color: rgb(255, 94, 94);
+ color: white;
+ padding: 14px 20px;
+ margin: 8px 0;
+ border: none;
+ border-radius: 4px;
+ cursor: pointer;
+ margin-top: 20px;
+}
