@@ -54,6 +54,8 @@ div {
 .picture {
  float: left;
  padding-left: 1px;
+ padding-right: 2px;
+
 }
 input[type=text] {
  margin-top: 40px;
